@@ -9,6 +9,6 @@ If you plan to use this program make sure that you're happy with the contents of
 
 * 1. `enable-corepack //This lets you access yarn through the terminal make sure you install node beforehand`
 * 2. `yarn //This installs all the node module and dependcies needed to run scripts`
-* 3. `//Add your blockchain wallets private address and the rpc_url`
+* 3. Add your blockchain wallets private address and the rpc_url
 * 4. `node deploy.js`
-Save word document and sha256 in a safe place and don't alter them in anyway.
+  5. Save word document and sha256 in a safe place and don't alter them in anyway.
