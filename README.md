@@ -6,7 +6,7 @@ If you plan to use this program make sure that you're happy with the contents of
 * Databases aren't always completely secure and can be prone to ransomware attacks but once something is on a smart contract on the blockchain it can't be taken down or changed in any way
 * Project could be taken further by creating an API for businesses to use on a website or creating a plugin for google drive and microsoft word
 ...
-1.Instructions to get started
+*Instructions to get started
   1.`enable-corepack //This lets you access yarn through the terminal make sure you install node beforehand`
   2.`yarn //This installs all the node module and dependcies needed to run scripts`
   3.`//Add your blockchain wallets private address and the rpc_url`
