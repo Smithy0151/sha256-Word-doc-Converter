@@ -1,1 +1,0 @@
-[{"inputs":[],"name":"retrieve","outputs":[{"internalType":"bytes32","name":"","type":"bytes32"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"bytes32","name":"_savedHash","type":"bytes32"}],"name":"store","outputs":[],"stateMutability":"nonpayable","type":"function"}]
