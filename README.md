@@ -1,5 +1,5 @@
 ![Deploy_Word_Docs_to_Smart_Contracts_- 📑](https://github.com/Smithy0151/sha256-Word-doc-Converter/assets/115808415/a4209b90-8b0d-4608-b307-d117240c1d33)
-## A great resource to use for any business that needs to backup sensitive documents and protect the intellectual property rights of new research or inventions!!!
+## A great resource to use for any business that needs to backup sensitive documents and protect the intellectual property rights of new research or inventions on the blockchain!!!
 
 If you plan to use this program make sure that you're happy with the contents of the word document before generating the sha256 because this is what uniquely identifies you as the owner of it and any changes made to the document afterwards wont match with the original value of the sha256.
 
