@@ -11,6 +11,6 @@ If you plan to use this program make sure that you're happy with the contents of
 * 2. `git clone https://github.com/Smithy0151/sha256-Word-doc-Converter //Sends all the code over to your file`
 * 3. `yarn //This installs all the node module and dependcies needed to run scripts`
 * 4.  Add your blockchain wallets private address and the rpc_url
-* 5.  `compile` //Compiles solidity code to get abi and bin file
+* 5.  `compile` //Compiles solidity code to get abi and bin file 
 * 5. `node deploy.js`
 * 6.  Save word document and sha256 in a safe place and don't alter them in anyway.
